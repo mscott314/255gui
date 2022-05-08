@@ -70,19 +70,19 @@ public class GUIExample {
 			myBar.add(myMenu3);
 				
 				JMenuItem myItem1c = new JMenuItem();
-				myItem1c.setText("Matthew Scott");
+				myItem1c.setText("Matthew");
 				myMenu3.add(myItem1c);
 					
 				JMenuItem myItem2c = new JMenuItem();
-				myItem2c.setText("Lindsay Jordan");
+				myItem2c.setText("Lindsay");
 				myMenu3.add(myItem2c);
 					
 				JMenuItem myItem3c = new JMenuItem();
-				myItem3c.setText("Oshen Shrestha");
+				myItem3c.setText("Oshen");
 				myMenu3.add(myItem3c);
 				
 				JMenuItem myItem4c = new JMenuItem();
-				myItem4c.setText("Sidney Blasiol");
+				myItem4c.setText("Sidney");
 				myMenu3.add(myItem4c);
 		
 		
